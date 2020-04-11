@@ -23,3 +23,26 @@
 "tribepicker.reset": "reset acquisti",
 "tribepicker.tba": "Prossimamente",
 "tribepicker.underconstruction": "Lavori in corso",
+"tribepicker.underconstruction.description": "Stiamo ancora lavorando per sviluppare questa tribù. Ci vuole tempo, lo sai. Segui @Midjiwan su Instagram o Twitter e sarai il primo a sapere quando arrivano nuove tribù!",
+"tribepicker.freetribe": "Tribù Gratis",
+"tribepicker.freetribe.description": "Questa tribù è gratis e non puo\u0027 essere acquistata per abilitare il multigiocatore online.",
+"tribepicker.taken": "Scelta",
+"tribepicker.enable": "ABILITA",
+"tribepicker.disable": "DISABILITA",
+"tribepicker.disabled": "disabilitata",
+"tribepicker.disabled.description": "Tribù disabilitata, non potrà essere usata né da te né dall\u0027IA.",
+"tribepicker.pick": "SCEGLI",
+"tribepicker.yourname": "Il tuo nome",
+"tribepicker.anonymous": "Anonimo",
+"tribepicker.firstplayer": "Il primo giocatore deve essere umano",
+"tribepicker.pickyour": "Scegli la tua tribù",
+"tribepicker.playertype": "Player type", ////////////CONTROLLO///////////
+"tribepicker.news.readmore": "Leggi di più...",
+"tribepicker.toprating": "Top rating {0}%",
+"tribepicker.toprating.next": "{0}% per la prossima stella",
+"tribepicker.topscore": "Punteggio record {0}"
+"tribepicker.topscore.next": "{0} per la prossima stella",
+"tribepicker.players": "{0} giocatori"
+"tribepicker.mapsize": "Grandezza Mappa: {0} tiles",
+"tribepicker.gamemode": "Modalità: {0}",
+
