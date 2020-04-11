@@ -7,9 +7,11 @@
 "startmenu.high_score": "Record",
 "startmenu.throne_room": "Sala del Trono",
 "startmenu.about": "Info",
+
 "news.title": "POLYTOPIA NEWS"
 "news.description": "Benvenuto!\n Qui si condividono le ultime notizie sul mondo di Polytopia. Resta aggiornato!"
 "gamemodepicker.title": "MODALITÀ",
+
 "tribepicker.title": "SCEGLI UNA TRIBÙ",
 "tribepicker.categories.humantribes": "Tribù Umane",
 "tribepicker.categories.specialtribes": "Tribù Speciali",
@@ -25,7 +27,7 @@
 "tribepicker.underconstruction": "Lavori in corso",
 "tribepicker.underconstruction.description": "Stiamo ancora lavorando per sviluppare questa tribù. Ci vuole tempo, lo sai. Segui @Midjiwan su Instagram o Twitter e sarai il primo a sapere quando arrivano nuove tribù!",
 "tribepicker.freetribe": "Tribù Gratis",
-"tribepicker.freetribe.description": "Questa tribù è gratis e non puo\u0027 essere acquistata per abilitare il multigiocatore online.",
+"tribepicker.freetribe.description": "Questa tribù è gratis e non puo\u0027 essere acquistata per abilitare il multiplayer online.",
 "tribepicker.taken": "Scelta",
 "tribepicker.enable": "ABILITA",
 "tribepicker.disable": "DISABILITA",
@@ -45,6 +47,7 @@
 "tribepicker.players": "{0} giocatori"
 "tribepicker.mapsize": "Grandezza Mappa: {0} tiles",
 "tribepicker.gamemode": "Modalità: {0}",
+
 "gamesettings.title": "IMPOSTAZIONI PARTITA",
 "gamesettings.yourname": "Il tuo nome",
 "gamesettings.anonymous": "Anonimo",
@@ -79,7 +82,15 @@
 "gamesettings.network.passplay": "Locale",
 "gamesettings.online.disabled": "L\u0027Online è bloccato",
 "gamesettings.online.disabled.info": "Ci sono delle cose che devi mettere apposto per giocare online",
-"gamesettings.online.info": "Gioca coi tuoi amici online su i nostri server multigiocatore",
+"gamesettings.online.info": "Gioca coi tuoi amici online su i nostri server multiplayer",
+"gamesettings.passplay.info": "Gioca coi tuoi amici offline su questo dispositivo passandovelo.",
+"gamesettings.size.tiles": "{0} caselle nella mappa.",
+"gamesettings.continue": "RIPRENDI",
 
-
-
+"gamemode.perfection.caps": "PERFEZIONE",
+"gamemode.perfection": "Perfezione",
+"gamemode.perfection.description.button": "Mostra le tue abilità nella graduatoria globale con la classica partita di 30 turni.",
+"gamemode.perfection.description": "Ottieni il punteggio più alto possibile prima di terminare 30 turni",
+"gamemode.perfection.win": "Abbiamo raggiunto la fine dei turni, la memoria della tua tribù riecheggerà nell\u0027eternità!",
+"gamemode.perfection.loss": "Abbiamo raggiunto la fine dei turni.",
+"gamemode.domination.caps": "DOMINIO",
