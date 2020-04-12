@@ -202,7 +202,7 @@
   "building.village.owner": "Questo è un villaggio che non appartiene a nessuna tribù",
   "building.ability.attract": "richiama un animale selvaggio in una casella foresta vicina ogni 3 turni",
   "building.produce": "produce {0} ogni turno",
-  "building.produce.multiply.polaris": " ({0} per ogni {1} casella ghiacciata nela mappa),
+  "building.produce.multiply.polaris": " ({0} per ogni {1} casella ghiacciata nela mappa)",
   "building.produce.multiply2.polaris": "Produce {0} per ogni {1} casella ghiacciata nela mappa",
   "building.produce.multiply": " ({0} per ogni {1} vicino)",
   "building.produce.multiply2": "produce {0} per ogni {1} vicino ogni turno",
