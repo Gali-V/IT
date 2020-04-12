@@ -100,12 +100,12 @@
   "gamemode.domination.win": "Hai sconfitto tutte le altre tribù e unificato l\u0027intero mappa!",
   "gamemode.domination.loss": "La tua ultima città è stata catturata, sei stato sconfitto.",
   "gamemode.glory.caps": "GLORIA",
-  "gamemode.glory": "Gloria"
+  "gamemode.glory": "Gloria",
   "gamemode.glory.description": "Il primo a raggiungere {0} punti vince",
   "gamemode.glory.win": "Sono stati raggiunti i {0} punti!",
   "gamemode.might.caps": "POTERE",
   "gamemode.might": "Potere",
-  "gamemode.might.description": "Cattura tutte le capitali per vincere"
+  "gamemode.might.description": "Cattura tutte le capitali per vincere",
   "gamemode.might.win": "Tutte le capitali sono state catturate",
   "gamemode.death": "La tua ultima città è stata catturata, sei stato sconfitto.", 
 
