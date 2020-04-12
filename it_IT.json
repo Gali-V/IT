@@ -5,7 +5,7 @@
   "startmenu.resume_game": "RIPRENDI PARTITA",
   "startmenu.settings": "Impostazioni",
   "startmenu.high_score": "Record",
-  "startmenu.throne_room": "Sala del Trono",
+  "startmenu.throne_room": "Sala del Re",
   "startmenu.about": "Info",
 
   "news.title": "POLYTOPIA NEWS",
@@ -537,7 +537,7 @@
   "wcontroller.removingplayer": "Rimozione giocatore",
   "wcontroller.not.your.turn": "Mi dispiace, ma non è ancora il tuo turno!",
 
-  "technology.intro": "Questa tecnologia. consente:\n \n",
+  "technology.intro": "Questa \n0027tecnologia\n0027 consente:\n \n",
   "technology.build": "{0} rende possibile costruire {1}",
   "technology.movement": "Movimento",
   "technology.movement.info": "consente movimento in {0}",
