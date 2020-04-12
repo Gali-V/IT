@@ -579,8 +579,8 @@
   "technology.names.polarwarfare": "Guerra Polare",
   "technology.names.polarism": "Freddo Polare",
 
-  "techview.info": "Tech costs increase for each city in your empire.",
-  "techview.info.literacy": "Literacy reduce the price of all technologies by 20%!",
+  "techview.info": "Il costo di ogni \n0027tecnologia\n0027 incrementa per ogni città del tuo impero.",
+  "techview.info.literacy": "La Filosofia riduce il prezzo di tutte le \n0027tecnologie\n0027 del 20%!",
   "techview.locked": "(locked)",
   "techview.locked.info": "You must research {0} before you can learn {1}.",
   "techview.completed": "(completed)",
