@@ -1,5 +1,4 @@
-{
-  "language": "Italiano",
+{"language": "Italiano",
   "startmenu.new_game": "NUOVA PARTITA",
   "startmenu.multiplayer": "MULTIPLAYER",
   "startmenu.resume_game": "RIPRENDI PARTITA",
@@ -973,8 +972,7 @@
   "friendlist.friendshipstate.accepted": "Friend request accepted. You are both friends.",
   "friendlist.friendshipstate.sentrequest": "Friend request sent. Waiting for response.",
   "friendlist.friendshipstate.receivedrequest": "Friend request received. Do you accept?",
-  "friendlist.friendshipstate.rejected": "Friend request rejected."
-}
+  "friendlist.friendshipstate.rejected": "Friend request rejected."}
 
 
 
