@@ -42,9 +42,9 @@
   "tribepicker.news.readmore": "Leggi di più...",
   "tribepicker.toprating": "Top rating {0}%",
   "tribepicker.toprating.next": "{0}% per la prossima stella",
-  "tribepicker.topscore": "Punteggio record {0}"
+  "tribepicker.topscore": "Punteggio record {0}",
   "tribepicker.topscore.next": "{0} per la prossima stella",
-  "tribepicker.players": "{0} giocatori"
+  "tribepicker.players": "{0} giocatori",
   "tribepicker.mapsize": "Grandezza Mappa: {0} tiles",
   "tribepicker.gamemode": "Modalità: {0}",
 
