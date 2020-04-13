@@ -194,7 +194,7 @@
   "tribes.yadakk": "Yădakk",
   "tribes.yadakk.info": "Gli {0} iniziarono come una tribù nomade nelle bellissime ma pericolose pianure Khalee. Ora sono i mercanti del Quadrato, connettendo l\u0027impero con le loro impressionanti tratte commerciali.\n\nGli {0} iniziano la partita con la tecnologia \u0027{1}\u0027.",
   "tribes.polaris": "Polaris",
-  "tribes.polaris.info": "I {0} sono rimasti intrappolati nei punti più ignoti della tundra per eoni, ma son stati benedetti dai misteriosi Gaami col potere di espandere il loro innaturale terreno congelato più lontano ignorando il meteo.\n\nCon la potenza delle slitte e dei Mamoo, i mistici {0}sono determinati a rendere Polytopia il loro gelido paradiso.\n\nI {0} iniziano la partita con l\u0027abilità di congelare il terreno adiacente coi Mooni.",
+  "tribes.polaris.info": "I {0} sono rimasti intrappolati nei punti più ignoti della tundra per eoni, ma son stati benedetti dai misteriosi Gaami col potere di espandere il loro innaturale terreno congelato più lontano ignorando il clima.\n\nCon la potenza delle slitte e dei Mamoo, i mistici {0}sono determinati a rendere Polytopia il loro gelido paradiso.\n\nI {0} iniziano la partita con l\u0027abilità di congelare il terreno adiacente coi Mooni.",
 
   "building.capital.owner": "{0} è la capitale di {1}.",
   "building.capital.owner.former": "{0} è l\u0027ex-capitale dell\u0027impero {1}, attualmente occupata dalle force di {2}.",
