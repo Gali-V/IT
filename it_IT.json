@@ -581,12 +581,12 @@
 
   "techview.info": "Il costo di ogni tecnologia incrementa per ogni città del tuo impero.",
   "techview.info.literacy": "La Filosofia riduce il prezzo di tutte le tecnologie del 20%!",
-  "techview.locked": "(locked)",
-  "techview.locked.info": "You must research {0} before you can learn {1}.",
-  "techview.completed": "(completed)",
-  "techview.completed.info": "You have already researched this technology.",
-  "techview.expensive.info": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-  "techview.research": "RESEARCH",
+  "techview.locked": "(bloccato)",
+  "techview.locked.info": "Devi scoprire {0} prima di poter imparare {1}.",
+  "techview.completed": "(completato)",
+  "techview.completed.info": "Hai già scoperto questa teconologia.",
+  "techview.expensive.info": "Non hai abbastanza stelle per comprarlo. Premi \u0027pross. turno\u0027 per ottenere più stelle.",
+  "techview.research": "SCOPRI",
 
   "action.info.attack": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
   "action.info.recover": "Recover",
