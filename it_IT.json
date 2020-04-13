@@ -869,7 +869,7 @@
   "playerpickerview.human.info": "Deve esserci almeno un giocatore umano per iniziare una partita",
 
   "gameitem.join": "Unisciti alla partita o Declina l\u0027invito.",
-  "gameitem.join.wait": "Aspettando {0} che scelga una tribù",
+  "gameitem.join.wait": "{0} sta scegliendo una tribù",
   "gameitem.ready": "Pronto per iniziare!",
   "gameitem.ready.wait": "{0} può iniziare la partita",
   "gameitem.turn.your": "È il Tuo Turno",
