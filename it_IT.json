@@ -700,7 +700,7 @@
   "gamestatus.tasks": "Obiettivi {0}/{1}",
   "gamestatus.tasks.complete": "Completato!",
 
-  "settings.title": "IMPOSTAZIONE",
+  "settings.title": "IMPOSTAZIONI",
   "settings.volume": "volume Audio {0}",
   "settings.soundeffects": "Effetti Sonori",
   "settings.ambience": "Ambiente",
