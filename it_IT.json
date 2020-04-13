@@ -751,7 +751,7 @@
   "onlineview.yourturn": "È il Tuo Turno",
   "onlineview.theirturn": "È il loro Turno",
   "onlineview.reloading": "Caricamento in corso...",
-  "onlineview.reloading.release": "Rilascia per ricaricare...",
+  "onlineview.reloading.release": "Rilascia per aggiornare...",
   "onlineview.newgame": "Nuova Partita",
   "onlineview.friends": "Amici",
   "onlineview.profile": "Profilo",
@@ -901,7 +901,7 @@
 
   "mplayerstats.title": "PROFILO GIOCATORE",
   "mplayerstats.clear": "cancella dati",
-  "mplayerstats.reload": "ricarica i dati del multiplayer",
+  "mplayerstats.reload": "aggiorna i dati del multiplayer",
   "mplayerstats.multiplayer.faq": "MULTIPLAYER FAQ",
   "mplayerstats.alias": "Alias",
   "mplayerstats.friends": "nº Amici",
