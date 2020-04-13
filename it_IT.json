@@ -123,7 +123,7 @@
   "world.turn.waiting": "Attendi che {0} finisca il suo turno...",
   "world.turn.waiting.unknown": "Attendi che una tribù sconosciuta finisca il suo turno...",
   "world.turn.ready": "Premi Salva quando sei pronto",
-  "world.turn.your": "Tuo Turno",
+  "world.turn.your": "È il Tuo Turno",
   "world.turn.remaining": "{0} turni rimasti",
   "world.turn.last": "Ultimo turno!",
   "world.turn.replaying": "Rigioca...",
