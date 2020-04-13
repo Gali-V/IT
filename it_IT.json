@@ -423,7 +423,7 @@
 
   "gameinfo.id": "id: {0}",
   "gameinfo.lastmove": "Ultima mossa: {0} fa",
-  "gameinfo.updated": "aggiornato: {0} ago",
+  "gameinfo.updated": "Aggiornato: {0} fa",
   "gameinfo.turn": "Turno: {0}",
   "gameinfo.serverversion": "Versione Server: {0}",
   "gameinfo.gameover": "Questa partita è terminata, aprila per vedere il risultato finale",
